@@ -1,0 +1,13 @@
+---
+title: "milestone2"
+author: "a-sizer"
+date: "9/25/2020"
+output: html_document
+---
+
+[here is the link] (https://github.com/a-size/Milestone2.git)
+
+"Analysis of 3-pointers in the NBA" is detailled and substantive, despite it's narrow focus. I chose to write about this project because it is sports-focused, like mine. The graphs in this project depict relevant and interesting trends that are analyzed to present a clear story on the history and current usage of 3-pointers in the NBA. Some cons are the graphs are not very visually interesting and are sparse. Additionally, to understand why Steph Curry's performance at the free throw line is exceptional, it would have benefitted from including some statistics on the "average" accuracy of NBA players at the free throw line.
+
+
+The other project I chose to write about is very different than the former project. "Fingerprints of Colonization" is in line with my academic focus, and while I find it very conceptually interesting and visually appealing, it would have been strengthened by more analysis. For example, the author could have restated what the graphs are showing and explaining what that means for her topic. This project has inspired me to considering changing my project to more closely fit my academic interests, because I would really like to do analysis like this. 
